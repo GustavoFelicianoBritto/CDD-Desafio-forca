@@ -9,7 +9,7 @@ else:
 #Quantidade de letra da palavra escolhida
 letterQtd = len(palavra)
 acertos=0
-vidas=5
+vidas=6
 letterSend =[]
 
 for i in range(50):
