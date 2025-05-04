@@ -142,5 +142,5 @@ print(dp)
 print(f"Letras enviadas: {letterSend}")
 #print(ActiveWord)
 
-print(f"\nPressione qualquer tecla para fechar: ")
+print(f"\nPressione enter para fechar: ")
 input()
